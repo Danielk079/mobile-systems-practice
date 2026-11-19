@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExplicitIntentsPractice1</string>
+    <string name="greeting_message">Hello, %s!</string>
+    <string name="age_details">You are %d years old!</string>
+</resources>
